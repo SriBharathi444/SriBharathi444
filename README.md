@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Sri Bharathi 👋
 
-<!--
-**SriBharathi444/SriBharathi444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+- 💻 B.E. Computer Science and Engineering Student
+- 🏫 SCAD College of Engineering and Technology
+- 🌱 Currently learning C, C++, HTML, CSS, JavaScript, Git & GitHub
+- ☁️ Exploring Cloud Computing (AWS, Azure & Google Cloud)
+- 🚀 Passionate about Web Development and Cloud Technologies
 
-Here are some ideas to get you started:
+## 🛠️ Technical Skills
+- C Programming
+- C++
+- HTML
+- CSS
+- JavaScript (Basics)
+- Git
+- GitHub
+- Cloud Computing (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+### 🎓 Student Management System
+A console-based Student Management System developed using C.
+
+### 🏥 Medical Management System
+A console-based Medical Management System developed using C++.
+
+### 🚌 Smart Bus Alert System
+A Smart Bus Alert System prototype developed using HTML, CSS, and JavaScript with bus tracking, ETA prediction, and emergency status updates.
+
+## 📚 Currently Learning
+- Git & GitHub
+- Cloud Computing
+- Web Development
+- Data Structures
+
+## 🎯 Career Goal
+To become a skilled Cloud Engineer by building practical projects and continuously improving my technical knowledge.
+
+## 📫 Connect with Me
+📧 Email: **sribharathi013@gmail.com**
+
+---
+⭐ *Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.*
